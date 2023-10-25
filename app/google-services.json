@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "336180945804",
+    "firebase_url": "https://do-to-app-46aec-default-rtdb.firebaseio.com",
+    "project_id": "do-to-app-46aec",
+    "storage_bucket": "do-to-app-46aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336180945804:android:64205ac2270649f92d6ca9",
+        "android_client_info": {
+          "package_name": "com.sangyan.do_to_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwoIuh87h1Qi9NuL2LI8aXJXZt8tPuC00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
